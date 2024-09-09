@@ -20,7 +20,7 @@ Flask 2.0+
 Flask-SQLAlchemy 2.5+
 SQLite (or any other database supported by Flask-SQLAlchemy)
 Installation
-Clone the repository: git clone https://github.com/cececodes1/fitness-center-project.git
+Clone the repository: git clone https://github.com/cececodes1/fitness_center_project.git
 Install dependencies: pip install -r requirements.txt
 Create a new database: flask db init
 Apply migrations: flask db migrate and flask db upgrade
